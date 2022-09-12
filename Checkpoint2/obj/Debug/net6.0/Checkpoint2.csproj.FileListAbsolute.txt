@@ -1,0 +1,15 @@
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\bin\Debug\net6.0\Checkpoint2.exe
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\bin\Debug\net6.0\Checkpoint2.deps.json
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\bin\Debug\net6.0\Checkpoint2.runtimeconfig.json
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\bin\Debug\net6.0\Checkpoint2.dll
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\bin\Debug\net6.0\Checkpoint2.pdb
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.csproj.AssemblyReference.cache
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.AssemblyInfoInputs.cache
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.AssemblyInfo.cs
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.csproj.CoreCompileInputs.cache
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.dll
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\refint\Checkpoint2.dll
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.pdb
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\Checkpoint2.genruntimeconfig.cache
+C:\Users\Sti\programming\C#\courseLexicon\Checkpoint2\Checkpoint2\obj\Debug\net6.0\ref\Checkpoint2.dll
