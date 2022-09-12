@@ -17,7 +17,6 @@ namespace Checkpoint2
 
         }
 
-        
         public List<Product> getSorted()
         {
 
